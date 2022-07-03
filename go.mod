@@ -1,1 +1,1 @@
-module github.com/gorilla/securecookie
+module github.com/arjovr/securecookie
